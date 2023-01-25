@@ -5,7 +5,7 @@ class Program
     public static void Main(string[] args)
     {
         //--------------------1a------------------------
-      /*  int n;
+        int n;
         int sum = 0;
 
         for (n = 0; n <= 10; n++)
@@ -40,7 +40,7 @@ class Program
         while (n <= 10)
         {
             n += 2;
-        }*/
+        }
         //------------------------1c---------------------
         for (n = 25; n <= 75; n++)
         {
